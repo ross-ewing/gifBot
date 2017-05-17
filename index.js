@@ -17,7 +17,7 @@ login({
         }
 
         var gifResolve = res.data.image_url;
-        var sendToID = 761050178;
+        var sendToID = 100004260883318;
         var options = {
             url: gifResolve,
         }

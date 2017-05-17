@@ -1,24 +1,25 @@
 {
-    "name": "facebook-chat-api",
-    "version": "1.4.0",
-    "description": "Facebook chat API that doesn't rely on XMPP.  Will NOT be deprecated April 30th 2015.",
+    "name": "facebook-gifBot",
+    "version": "0.1",
+    "description": "Sends a gif to your friend",
     "scripts": {
         "test": "node_modules/.bin/mocha",
         "start": "node server.js"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/Schmavery/facebook-chat-api.git"
+        "url": "git://github.com/ross-ewing/gifBot"
     },
     "keywords": [
         "facebook",
-        "chat",
-        "api"
+        "gif",
+        "api",
+        "chat"
     ],
     "bugs": {
-        "url": "https://github.com/Schmavery/facebook-chat-api/issues"
+        "url": "https://github.com/ross-ewing/gifBot/issues"
     },
-    "author": "Avery, David, Maude, Benjamin",
+    "author": "ross-ewing",
     "license": "MIT",
     "dependencies": {
         "facebook-chat-api": "*",
